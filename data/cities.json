@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "id": "2763",
+      "cityName": "El Granado",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-12-24T11:54:07.621Z",
+      "notes": "",
+      "position": {
+        "lat": "37.501010429493284",
+        "lng": "-7.481689453125001"
+      }
+    },
+    {
+      "id": "1ac5",
+      "cityName": "Witnica",
+      "country": "Poland",
+      "emoji": "🇵🇱",
+      "date": "2025-12-24T11:56:18.453Z",
+      "notes": "",
+      "position": {
+        "lat": "52.649729197309426",
+        "lng": "14.897460937500002"
+      }
+    },
+    {
+      "id": "335d",
+      "cityName": "Raniganj",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2025-12-25T09:23:36.189Z",
+      "notes": "home sweet home\n",
+      "position": {
+        "lat": "23.62982043838756",
+        "lng": "87.11784839630127"
+      }
+    },
+    {
+      "id": "ebc1",
+      "cityName": "Pedro Bernardo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-12-25T09:25:43.339Z",
+      "notes": "hi",
+      "position": {
+        "lat": "40.23760536584024",
+        "lng": "-4.877929687500001"
+      }
+    },
+    {
+      "id": "33a9",
+      "cityName": "Layos",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-12-25T09:32:19.200Z",
+      "notes": "test",
+      "position": {
+        "lat": "39.757879992021756",
+        "lng": "-4.053955078125001"
+      }
+    }
+  ]
+}
