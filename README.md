@@ -73,6 +73,8 @@ The-Wild-Oasis/
 ## 🌐 Live Demo
 
 Visit the live application: [The Wild Oasis](https://the-wild-oasis-iota-green.vercel.app)
+login id-Rishi@test.com
+pass-12345678
 
 ## 👤 Author
 
