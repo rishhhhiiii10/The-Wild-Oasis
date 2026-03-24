@@ -21,23 +21,27 @@ A modern hotel management and booking application built with React, designed to 
 ## 🚀 Getting Started
 
 ### Prerequisites
+
 - Node.js (v14 or higher)
 - npm or yarn package manager
 
 ### Installation
 
 1. Clone the repository:
+
 ```bash
 git clone https://github.com/rishhhhiiii10/The-Wild-Oasis.git
 cd The-Wild-Oasis
 ```
 
 2. Install dependencies:
+
 ```bash
 npm install
 ```
 
 3. Start the development server:
+
 ```bash
 npm start
 ```
@@ -72,25 +76,7 @@ Visit the live application: [The Wild Oasis](https://the-wild-oasis-iota-green.v
 
 ## 👤 Author
 
-**Rishav** - [@rishhhhiiii10](https://github.com/rishhhhiiii10)
+**Rishi** - [@rishhhhiiii10](https://github.com/rishhhhiiii10)
 
-## 📄 License
-
-This project is open source and available under the MIT License.
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to:
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📧 Support
-
-For issues, questions, or suggestions, please open an [issue](https://github.com/rishhhhiiii10/The-Wild-Oasis/issues) on GitHub.
-
----
-
-⭐ If you find this project helpful, please consider giving it a star!
+buy me a coffee:
+![QR Code](./src/assets/qrCode.jpeg)
